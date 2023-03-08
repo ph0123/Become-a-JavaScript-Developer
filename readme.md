@@ -15,6 +15,9 @@ This path includes many courses.
   - [11. JSON Essential Training ](#11)
   - [12. JavaScript: Ajax and Fetch ](#12)
 
+
+Tools: VS code with Live Server extension and NodeJS
+
 1. JavaScript Essential Training <a name="1"></a>
 2. Learning the JavaScript Language <a name="2"></a>
 3. Learning ECMAScript 6+ (ES6+) <a name="3"></a>
