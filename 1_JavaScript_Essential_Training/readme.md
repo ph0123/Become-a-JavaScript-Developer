@@ -80,4 +80,4 @@
 8. Functions and Methods<a name="8"></a>
 9.  Events<a name="9"></a>
 10.  Troubleshooting and Vlidating JS <a name="10"></a>
-11.  Conclusion<a name="11"></a>
+11update .  Conclusion<a name="11"></a>
