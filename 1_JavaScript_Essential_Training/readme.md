@@ -163,11 +163,11 @@
   * Question 15 of 15: When creating a class, the prototype methods are added inside the constructor method.
     * FALSE (correct answer)
     * TRUE
-1. Sidebar: String Output<a name="4"></a>
-2. DOM<a name="5"></a>
-3. Sidebar: Variables and Data Types<a name="6"></a>
-4. Arrays<a name="7"></a>
-5. Functions and Methods<a name="8"></a>
-6.  Events<a name="9"></a>
-7.   Troubleshooting and Vlidating JS <a name="10"></a>
-11update .  Conclusion<a name="11"></a>
+4. Sidebar: String Output<a name="4"></a>
+5. DOM<a name="5"></a>
+6. Sidebar: Variables and Data Types<a name="6"></a>
+7. Arrays<a name="7"></a>
+8. Functions and Methods<a name="8"></a>
+9.  Events<a name="9"></a>
+10.   Troubleshooting and Vlidating JS <a name="10"></a>
+11.  Conclusion<a name="11"></a>
