@@ -19,7 +19,7 @@ This path includes many courses.
 Tools: VS code with Live Server extension and NodeJS
 
 1. [JavaScript Essential Training ](https://github.com/ph0123/Become-a-JavaScript-Developer/tree/main/1_JavaScript_Essential_Training) <a name="1"></a>
-2. Learning the JavaScript Language <a name="2"></a>
+2. [Learning the JavaScript Language](https://github.com/ph0123/Become-a-JavaScript-Developer/tree/main/2_Learning%20the%20JavaScript%20Language%20(2019)) <a name="2"></a>
 3. Learning ECMAScript 6+ (ES6+) <a name="3"></a>
 4. JavaScript: Scope <a name="4"></a>
 5. JavaScript: Prototypes <a name="5"></a>
